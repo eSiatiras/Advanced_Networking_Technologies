@@ -1,2 +1,3 @@
 # Advanced_Networking_Technologies
  
+Advanced topics in telecommunications networks. Thoughtful study of network resource allocation schemes to support broadband applications. (Study of Traffic Control Schemes, Call Acceptance, Equivalent Bandwidth, End-to-End Quality of Service Study). Internet and ATM technology specific topics (such as: quality of service support schemes, application layer protocols, multimedia support protocols etc.).
